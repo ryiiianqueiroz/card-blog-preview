@@ -1,6 +1,7 @@
 {
   "name": "card-blog-preview",
   "version": "0.0.0",
+  "homepage": "https://ryiianqueiroz.github.io/card-blog-preview/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
